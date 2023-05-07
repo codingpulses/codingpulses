@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Node.js<br><br>🌱 I’m currently learning Full Stack Devlopment<br><br>👯 I’m looking to collaborate on Advanced projects<br><br>👨‍💻 All of my projects are available at https://codingpulses.github.io/Portfolio/<br><br>💬 Ask me about react,Node.js<br><br>📫 How to reach me iamrajattripathi@gmail.com<br><br>📄 Know about my experiences https://codingpulses.github.io/Portfolio/<br><br>⚡ Fun fact I think I am not a robot.
+🔭 I’m currently working on Frontend devlopment <br><br>🌱 I’m currently learning Full Stack Devlopment<br><br>👯 I’m looking to collaborate on Advanced projects<br><br>👨‍💻 All of my projects are available at https://codingpulses.github.io/Portfolio/<br><br>💬 Ask me about react,Node.js<br><br>📫 How to reach me iamrajattripathi@gmail.com<br><br>📄 Know about my experiences https://codingpulses.github.io/Portfolio/<br><br>⚡ Fun fact I think I am not a robot.
 
 
 ## 🌐 Socials:
